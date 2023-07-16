@@ -8,9 +8,9 @@ public class P5 {
 
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Please enter Number");
-        int Num = input.nextInt();
+        int Num = sc.nextInt();
         int F = 1;
         int S = 1;
 
@@ -20,6 +20,7 @@ public class P5 {
             S = T;
             System.out.println(T);
         }
-
+sc.close();
     }
+    
 }
