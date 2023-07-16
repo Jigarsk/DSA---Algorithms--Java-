@@ -6,9 +6,9 @@ public class P6 {
     }
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a Number");
-        int Num = input.nextInt();
+        int Num = sc.nextInt();
 
         int sum;
         for(sum = 0; Num > 0; Num /= 10) {
@@ -17,5 +17,9 @@ public class P6 {
         }
 
         System.out.println(sum);
+        sc.close();
+        
     }
+    
+
 }
