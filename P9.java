@@ -7,14 +7,17 @@ public class P9 {
         int Num = sc.nextInt();
         int Armstrong = 0;
         int original = Num;
-        while(Num>0){
+        while (Num > 0) {
 
             int temp = Num % 10;
-            temp = (int) Math.pow(temp,3);
+            temp = (int) Math.pow(temp, 3);
             Armstrong = temp + Armstrong;
-            Num/=10;
+            Num /= 10;
         }
-        if(Armstrong != original){System.out.println("Given Number is Not Armstrong");System.exit(1);}
+        if (Armstrong != original) {
+            System.out.println("Given Number is Not Armstrong");
+            System.exit(1);
+        }
         System.out.println("Given Number is Armstrong");
     }
 }
