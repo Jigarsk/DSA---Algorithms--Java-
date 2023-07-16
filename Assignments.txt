@@ -4,8 +4,8 @@ Fisrt Java :
 //Take name as input and print a greeting message for that particular name.
 //Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 //Take 3 numbers as input and print the largest number.
-To calculate Fibonacci Series up to n numbers.
-To find out whether the given String is Palindrome or not.
+//To calculate Fibonacci Series up to n numbers.
+//To find out whether the given String is Palindrome or not.
 To find Armstrong Number between two given number.
 
 
