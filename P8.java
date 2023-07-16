@@ -1,5 +1,5 @@
 import java.util.*;
-import java.util.concurrent.LinkedBlockingQueue;
+
 
 public class P8 {
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class P8 {
             j--;
         }
         System.out.println("Given String is Palindrome");
-
+        sc.close();
 
     }
 
