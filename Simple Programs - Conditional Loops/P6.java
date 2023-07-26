@@ -1,4 +1,4 @@
-
+//Sum  of the digits included in number given by user
 import java.util.Scanner;
 
 public class P6 {
@@ -11,15 +11,14 @@ public class P6 {
         int Num = sc.nextInt();
 
         int sum;
-        for(sum = 0; Num > 0; Num /= 10) {
+        for (sum = 0; Num > 0; Num /= 10) {
             int temp = Num % 10;
             sum += temp;
         }
 
         System.out.println(sum);
         sc.close();
-        
+
     }
-    
 
 }
