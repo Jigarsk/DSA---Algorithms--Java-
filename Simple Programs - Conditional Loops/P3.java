@@ -1,3 +1,4 @@
+//Greet Message
 import java.util.Scanner;
 
 public class P3 {
