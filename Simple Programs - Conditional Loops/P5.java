@@ -1,6 +1,6 @@
 
 
-//Fibonacci Series
+//Fibonacci Series.
 
 import java.util.Scanner;
 
