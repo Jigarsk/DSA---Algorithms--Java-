@@ -1,4 +1,4 @@
-//Print the Reverse Number of Given Number
+//Print the Reverse Number of Given Number.
 
 import java.util.Scanner;
 
