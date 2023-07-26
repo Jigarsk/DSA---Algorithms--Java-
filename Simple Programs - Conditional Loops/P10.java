@@ -1,3 +1,4 @@
+//Subtract the Product and Sum of Digits of an Integer
 import java.util.Scanner;
 
 public class P10 {
@@ -20,22 +21,20 @@ public class P10 {
 
 }
 
-//LEETCODE CODE BELOW :
+// LEETCODE CODE BELOW :
 
-//  class Solution {
+// class Solution {
 // public int subtractProductAndSum(int n){
-           
-//         int sum=0,prod=1;
-//     while(n!=0){
-//         int rem =  n%10;
-//         sum = sum+rem;
-//         prod = prod*rem;
-//         n = n/10;
 
-//     }
-// return prod-sum;        
+// int sum=0,prod=1;
+// while(n!=0){
+// int rem = n%10;
+// sum = sum+rem;
+// prod = prod*rem;
+// n = n/10;
 
+// }
+// return prod-sum;
 
-       
-//     }
+// }
 // }
