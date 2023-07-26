@@ -1,9 +1,0 @@
-Input a number and print all the factors of that number (use loops).
-
-Addition Of Two Numbers
-HCF Of Two Numbers Program
-LCM Of Two Numbers
-Java Program Vowel Or Consonant
-Perfect Number In Java
-Check Leap Year Or Not
-Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
