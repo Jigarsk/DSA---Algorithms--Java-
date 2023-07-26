@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P13",
+            "request": "launch",
+            "mainClass": "P13",
+            "projectName": "src_b2df8879"
+        },
+        {
+            "type": "java",
+            "name": "P12",
+            "request": "launch",
+            "mainClass": "P12",
+            "projectName": "src_b2df8879"
+        },
+        {
+            "type": "java",
             "name": "P11",
             "request": "launch",
             "mainClass": "P11",
