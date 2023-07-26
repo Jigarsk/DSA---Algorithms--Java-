@@ -1,4 +1,4 @@
-//In given number , how many times digit is being repeated
+//In given number , how many times digit is being repeated.
 
 import java.util.Scanner;
 
