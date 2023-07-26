@@ -1,5 +1,5 @@
+//Given String is Palindrome or not (Jigar == ragiJ)
 import java.util.*;
-
 
 public class P8 {
     public static void main(String[] args) {
@@ -22,4 +22,3 @@ public class P8 {
     }
 
 }
-
