@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P14",
+            "request": "launch",
+            "mainClass": "P14",
+            "projectName": "src_b2df8879"
+        },
+        {
+            "type": "java",
             "name": "P13",
             "request": "launch",
             "mainClass": "P13",
